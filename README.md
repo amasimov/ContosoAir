@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/gunaybutayeva/2f0732e1-7ee0-4f88-9bc0-e90d26adf533/6f045e47-7792-41e4-8b6b-ef9c2640c9cd/_apis/work/boardbadge/36d24794-2a52-4a29-9164-2d053c0da4a8)](https://dev.azure.com/gunaybutayeva/2f0732e1-7ee0-4f88-9bc0-e90d26adf533/_boards/board/t/6f045e47-7792-41e4-8b6b-ef9c2640c9cd/Microsoft.RequirementCategory)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 [![Build Status](https://dev.azure.com/gunaybutayeva/Contoso/_apis/build/status/amasimov.ContosoAir?branchName=master)](https://dev.azure.com/gunaybutayeva/Contoso/_build/latest?definitionId=30&branchName=master)
